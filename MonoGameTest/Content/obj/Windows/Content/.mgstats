@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/dev/CSharp/Testing/MonoGameTest/MonoGameTest/Content/test.png","C:/dev/CSharp/Testing/MonoGameTest/MonoGameTest/Content/bin/Windows/Content/test.xnb","TextureProcessor","Texture2DContent",4407,640085,0.2029822
